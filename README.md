@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel, Vue<br>⚡ Fun fact:i Love code but i HATE math
+🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel, Vue<br>⚡ Fun fact: i Love code but i HATE math
 
 
 ## 🌐 Socials:
