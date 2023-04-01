@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel and Vuejs<br>⚡ Fun fact: I hate math
+🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel and Vuejs<br>⚡ Fun fact: I hate math<br>radyai.github.io/radya
 
 
 ## 🌐 Socials:
