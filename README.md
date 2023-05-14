@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel and Vuejs<br>🤓Backend Dev🤓<br>⚡ Fun fact: <ul><li>css? no please</li><li>don't know why but i like C#</li><li>trying to code every day</li></ul>💫 [Radya](https://radyai.github.io/radya/) <- Check this out
+🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel and Vuejs<br>🤓Backend Dev🤓<br>⚡ Fun fact: <ul><li>css? no please</li><li>don't know why but i like C#</li><li>trying to code every day (I am lazy)</li></ul>💫 [Radya](https://radyai.github.io/radya/) <- Check this out
 
 
 ## 🌐 Socials:
