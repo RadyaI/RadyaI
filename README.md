@@ -5,7 +5,7 @@
  <li>✅ Yang Penting Ngoding
 </li>
 </ul>
-btw nih liat dong <a href="radya.vercel.app">klik aja dulu</a></br></br>
+btw nih liat dong <a href="https://radya.vercel.app">klik aja dulu</a></br></br>
 -- people says don't give up on your dream, so I went back to sleep -- 
 
  Nih siapa tau butuh -> ( https://gprm.itsvg.in )  <br>
