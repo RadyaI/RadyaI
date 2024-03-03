@@ -10,3 +10,10 @@ btw nih liat dong <a href="https://radya.vercel.app">klik aja dulu</a></br></br>
 
  Nih siapa tau butuh -> ( https://gprm.itsvg.in )  <br>
  
+# 📊
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadyaI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RadyaI&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
