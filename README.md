@@ -1,4 +1,4 @@
-🌱 Lovuee ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) <br>⚡ [![Radya](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r4dy.a) </br>
+🌱 Lovuee ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) <br>⚡ [![Radya](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radyaif) </br>
 
 <ul style="list-style-type: none;">
  <li>❌ Ngoding Yang Penting</li>
