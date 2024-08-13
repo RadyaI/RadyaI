@@ -1,12 +1,12 @@
 🌱 Lovuee ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) <br>⚡ [![Radya](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radyaif) </br>
 
-![Uler SVG](https://raw.githubusercontent.com/RadyaI/RadyaI/master/uler.svg)
-
 <ul style="list-style-type: none;">
  <li>❌ Ngoding Yang Penting</li>
  <li>✅ Yang Penting Ngoding
 </li>
 </ul>
+
+![Uler SVG](https://raw.githubusercontent.com/RadyaI/RadyaI/master/uler.svg)
 
 -- people says don't give up on your dream, so I went back to sleep -- <br><br>
 <h2>FRAMEWORKS, PLATFORMS & LIBRARIES</h2>
