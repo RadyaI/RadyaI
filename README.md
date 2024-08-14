@@ -4,8 +4,8 @@
 ```javascript
 const Radya = {
   pronouns: "He" | "Him",
-  code: ["HTML", "CSS", "JavaScript", "Typescript", "Golang"],
-  knowsAbout: ["Web Developer", "Game", "Tech"],
+  lang: ["HTML", "CSS", "JavaScript", "Typescript", "Golang"],
+  interest: ["Web Developer", "Game", "Tech", "IoT"],
   technologies: {
     frontEnd: {
       js: ["ReactJS", "VueJs", "Nuxtjs", "NextJs"]
