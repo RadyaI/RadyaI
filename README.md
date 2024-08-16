@@ -4,6 +4,7 @@
 ```javascript
 const Radya = {
   pronouns: "He" | "Him",
+  education: ["SMK Telkom Malang", "Universitas Muhammadiyah Malang"],
   lang: ["HTML", "CSS", "JavaScript", "Typescript", "Golang"],
   interest: ["Web Developer", "Game", "Tech", "IoT"],
   technologies: {
