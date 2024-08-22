@@ -1,4 +1,5 @@
 
+![ombak](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxeWl2aG9sajJyMXE2bWZqNnJzM3M5azFvNDNhbjdtZG9oaXRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiazvMDEVFgUBSFArS/200.webp)
 ![Uler SVG](https://raw.githubusercontent.com/RadyaI/RadyaI/master/uler.svg)
 
 ```javascript
